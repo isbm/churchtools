@@ -120,9 +120,9 @@
                         echo '><a href="?q='.$key.'">';
                         echo $config[$key."_name"];
                         echo "</a></li>";
-                      }                      
-                    }  
-                   ?>                  
+                      }
+                    }
+                   ?>
                 </ul>
                   <!--form class="navbar-search pull-right">
                     <input type="text" class="search-query" placeholder="Search">
