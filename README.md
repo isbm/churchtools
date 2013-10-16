@@ -1,4 +1,4 @@
-churchtools
-===========
+Church Tools 2.0
+================
 
-Fork from ChurchTools 2.0, available on http://www.churchtools.de/
+Initially fork of ChurchTools 2.0, available on http://www.churchtools.de/
